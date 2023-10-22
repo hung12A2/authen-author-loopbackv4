@@ -1,0 +1,24 @@
+{
+  "ids": {
+    "User": 4,
+    "UserCredentials": 4,
+    "Post": 4
+  },
+  "models": {
+    "User": {
+      "1": "{\"email\":\"string\",\"password\":\"string\",\"fullname\":\"string\",\"role\":\"customer\",\"id\":\"1\"}",
+      "2": "{\"email\":\"string2\",\"password\":\"string2\",\"fullname\":\"string\",\"role\":\"customer\",\"id\":\"2\"}",
+      "3": "{\"email\":\"admin\",\"password\":\"string\",\"fullname\":\"string\",\"role\":\"admin\",\"id\":\"3\"}"
+    },
+    "UserCredentials": {
+      "1": "{\"password\":\"string\",\"id\":\"1\"}",
+      "2": "{\"password\":\"string2\",\"id\":\"2\"}",
+      "3": "{\"password\":\"string\",\"id\":\"3\"}"
+    },
+    "Post": {
+      "1": "{\"title\":\"string\",\"content\":\"string\",\"userId\":\"string\",\"id\":\"1\"}",
+      "2": "{\"title\":\"string\",\"content\":\"string\",\"userId\":\"string\",\"id\":\"2\"}",
+      "3": "{\"title\":\"strifdsfng\",\"content\":\"string\",\"userId\":\"string\",\"id\":\"3\"}"
+    }
+  }
+}
